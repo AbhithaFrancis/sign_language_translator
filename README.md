@@ -15,20 +15,20 @@ Text-to-speech output
 Custom dataset collection and model training
 
 Technologies Used:-
-Python
-OpenCV
-MediaPipe
-NumPy
-Pandas
-Scikit-learn
-Joblib
-Windows System.Speech
+Python,
+OpenCV,
+MediaPipe,
+NumPy,
+Pandas,
+Scikit-learn,
+Joblib,
+Windows System.Speech.
 
 Current Sign Classes:-
-HELLO
-YES
-NO
-THANK YOU
-STOP
-LOVE
-FRIEND
+HELLO,
+YES,
+NO,
+THANK YOU,
+STOP,
+LOVE,
+FRIEND.
